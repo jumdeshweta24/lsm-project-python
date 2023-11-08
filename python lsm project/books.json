@@ -1,0 +1,58 @@
+{
+    "1": {
+        "title": "To Kill a Mockingbird",
+        "author": "harry",
+        "copies": 5,
+        "available": 5,
+        "genre": "Fiction"
+    },
+    "2": {
+        "title": "1984",
+        "author": "George Orwell",
+        "copies": "8",
+        "available": 8,
+        "genre": "Dystopian Fiction"
+    },
+    "3": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "copies": 6,
+        "available": 2,
+        "genre": "Classic Literature"
+    },
+    "4": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "copies": 7,
+        "available": 0,
+        "genre": "Fiction"
+    },
+    "5": {
+        "title": "python",
+        "author": "jenny's",
+        "copies": 10,
+        "available": 10,
+        "genre": "pro"
+    },
+    "6": {
+        "title": "SitaRaman",
+        "author": "ram",
+        "copies": 10,
+        "available": 9,
+        "genre": "Film Story"
+    },
+    "7": {
+        "title": "Javascript",
+        "author": "yahoo baba",
+        "copies": 5,
+        "available": 5,
+        "genre": "language"
+    },
+    "8": {
+        "title": "C Programming",
+        "author": "jenny's",
+        "copies": 5,
+        "available": 5,
+        "genre": "language"
+    }
+}

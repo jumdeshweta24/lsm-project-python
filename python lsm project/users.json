@@ -1,0 +1,204 @@
+{
+    "users": {
+        "1": {
+            "username": "Neha",
+            "token": "5b7e7a1c-3f7c-4f43-8d32-1bc96007f7c3",
+            "books_borrowed": {
+                "book_id1": "due_date1",
+                "book_id2": "due_date2"
+            },
+            "fines": 0
+        },
+        "2": {
+            "username": "Amit",
+            "token": "c241589a-8d1d-4d05-a8f6-1c62d07bf96a",
+            "books_borrowed": {
+                "book_id1": "due_date1",
+                "book_id2": "due_date2"
+            },
+            "fines": 0
+        },
+        "3": {
+            "username": "Snehal",
+            "token": "2f3d0c68-cd69-4a2f-80e3-988c9e6e2b6e",
+            "books_borrowed": {
+                "book_id1": "due_date1",
+                "book_id2": "due_date2"
+            },
+            "fines": 0
+        },
+        "4": {
+            "username": "Tejas",
+            "token": "d98f6957-8488-4709-8294-be054d385e7a",
+            "books_borrowed": {
+                "4": {
+                    "title": "The Great Gatsby",
+                    "author": "F. Scott Fitzgerald",
+                    "borrowed_date": "2023-11-07",
+                    "due_date": "2023-11-21",
+                    "count": 1
+                },
+                "5": {
+                    "title": "python",
+                    "author": "jenny's",
+                    "borrowed_date": "2023-11-07",
+                    "due_date": "2023-11-21",
+                    "count": 1
+                }
+            },
+            "fines": 0
+        },
+        "5": {
+            "username": "john",
+            "token": "a2f28144-36bf-4c18-9ed7-6e146b83fc38",
+            "books_borrowed": {
+                "5": {
+                    "title": "python",
+                    "author": "jenny's",
+                    "borrowed_date": "2023-11-21",
+                    "due_date": "2023-11-21",
+                    "count": 1
+                },
+                "2": {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "borrowed_date": "2023-11-07",
+                    "due_date": "2023-11-21",
+                    "count": 1
+                }
+            },
+            "fines": 0
+        },
+        "6": {
+            "username": "sejal",
+            "token": "ea30d5b2-089e-46fd-bf84-d0258fbb3701",
+            "books_borrowed": {
+                "6": {
+                    "title": "SitaRaman",
+                    "author": "ram",
+                    "borrowed_date": "2023-11-21",
+                    "due_date": "2023-11-21",
+                    "count": 1
+                },
+                "5": {
+                    "title": "python",
+                    "author": "jenny's",
+                    "borrowed_date": "2023-11-21",
+                    "due_date": "2023-11-21",
+                    "count": 2
+                },
+                "1": {
+                    "title": "To Kill a Mockingbird",
+                    "author": "harry",
+                    "borrowed_date": "2023-11-07",
+                    "due_date": "2023-11-21",
+                    "count": 1
+                },
+                "2": {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "borrowed_date": "2023-11-07",
+                    "due_date": "2023-11-21",
+                    "count": 1
+                }
+            },
+            "fines": 0
+        },
+        "7": {
+            "username": "tanu",
+            "token": "38012ad4-4410-495d-a52c-c21a9f246e30",
+            "books_borrowed": {},
+            "fines": 0
+        },
+        "8": {
+            "username": "Ishan",
+            "token": "0ec6e4a3-df3f-4653-8d30-c0d5192b51c7",
+            "books_borrowed": {},
+            "fines": 0
+        },
+        "9": {
+            "username": "shweta",
+            "token": "4af0a492-35e7-4b1c-aa0f-9c7189488c5d",
+            "books_borrowed": {},
+            "fines": 8
+        },
+        "10": {
+            "username": "nigam",
+            "token": "fe290c99-bd2e-4916-92a7-8af78d2b3498",
+            "books_borrowed": {
+                "4": {
+                    "title": "The Great Gatsby",
+                    "author": "F. Scott Fitzgerald",
+                    "borrowed_date": "2023-11-07",
+                    "due_date": "2023-11-11",
+                    "count": 1
+                }
+            },
+            "fines": 0
+        },
+        "11": {
+            "username": "bishkha",
+            "token": "e2921c23-11ef-4634-973a-b85ecb88d6ab",
+            "books_borrowed": {},
+            "fines": 0,
+            "password": "vish1"
+        },
+        "12": {
+            "username": "shubham",
+            "token": "1bd8a064-f4b9-42df-a1c3-851e2572e6bc",
+            "books_borrowed": {},
+            "fines": 0
+        },
+        "13": {
+            "username": "Mohan",
+            "token": "27",
+            "books_borrowed": {
+                "2": {
+                    "title": "1984",
+                    "author": "George Orwell",
+                    "borrowed_date": "2023-11-08",
+                    "due_date": "2023-11-22",
+                    "count": 1
+                },
+                "6": {
+                    "title": "SitaRaman",
+                    "author": "ram",
+                    "borrowed_date": "2023-11-08",
+                    "due_date": "2023-11-22",
+                    "count": 1
+                }
+            },
+            "fines": 0
+        },
+        "14": {
+            "username": "1",
+            "token": "5a1d8dd6-84a3-4001-a18d-dd8e049c9135",
+            "books_borrowed": {},
+            "fines": 0
+        },
+        "15": {
+            "username": "pratiksha",
+            "token": "e0d1c579-e5ab-4b99-ab5a-240bb876a88d",
+            "books_borrowed": {},
+            "fines": 0
+        },
+        "16": {
+            "username": "pratiksha",
+            "token": "dc66df37-3244-4165-bf92-ca8d1a01f0dd",
+            "books_borrowed": {},
+            "fines": 0
+        },
+        "17": {
+            "username": "guuy",
+            "token": "3147685b-e5bd-4e6d-9fb5-0e432172934a",
+            "books_borrowed": {},
+            "fines": 0
+        },
+        "18": {
+            "username": "kiran",
+            "token": "25a9adbc-4dbd-4490-b57f-2874752b16ea",
+            "books_borrowed": {},
+            "fines": 0
+        }
+    }
+}
